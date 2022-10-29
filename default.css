@@ -154,6 +154,13 @@ hr {
 	color: #FFF;
 }
 
+#social
+{
+	position: absolute;
+	top: 4em;
+	right: 0;
+}
+
 #logo p {
 	padding: 0px;
 	letter-spacing: 0.05em;
